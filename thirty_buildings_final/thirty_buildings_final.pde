@@ -1,3 +1,4 @@
+//I used some of Gray's code as he is my partner in the buildings assignment.
 void setup() {
   size(1000, 1000);
   strokeWeight(10);
